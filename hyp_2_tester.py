@@ -20,7 +20,7 @@ def load_json_file(filepath):
     return info
 
 # Paths to best meta-classifiers params
-meta_classifier_fnc_zoo_params = "./fc_all.json"
+meta_classifier_fnc_zoo_params = "./fcn.json"
 meta_classifier_cnn_zoo_params = "./cnn.json"
 
 # Paths to CNN-Zoo and FCN-Zoo models parent directory
