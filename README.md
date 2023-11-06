@@ -1,5 +1,5 @@
 # dp-from-weights
-A repository to reproduce the experiments of the paper: Deep Learning models with privacy: certificating Differential Privacy by recognizing its imprint in model weights.
+A repository to reproduce the experiments of the paper: Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning
 
 To reproduce the experiments you need to follow the following steps:
 
