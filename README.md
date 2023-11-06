@@ -1,4 +1,4 @@
-# dp-from-weights
+# Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning
 A repository to reproduce the experiments of the paper: Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning
 
 To reproduce the experiments you need to follow the following steps:
