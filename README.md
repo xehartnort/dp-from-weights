@@ -47,7 +47,7 @@ CNN-Zoo:
 python cnn_find_best_params_bin.py
 ```
 
-Note that `cnn.json` is already provided in this repo.
+Note that `cnn.json` and `fcn.json` are already provided in this repo, thus this step can be omitted.
 
 ## 3. Obtain hypothesis II results
 
