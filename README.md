@@ -1,7 +1,7 @@
 # Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning
-A repository to reproduce the experiments of the paper: Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning
+A repository to reproduce the experiments of the paper: [Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning](https://arxiv.org/abs/2311.11717)
 
-To reproduce the experiments you need to follow the following steps:
+To reproduce the experiments youneed to follow the following steps:
 
 ## 1. Generate the Zoos
 
@@ -27,7 +27,7 @@ where `<dataset>` can be: `mnist`, `fashion_mnist`, `svhn_cropped`, `cifar10`
 
 ## 1. Alternative, download the Zoos and unzip them
 
-Given that generating the model Zoos take a lot of time, even on multiple GPUs, we provide links to download each Zoo individually. Remember to extract them.
+Given that generating the model Zoos take a lot of time, even on multiple GPUs, we will provide links to download each Zoo individually soon.
 
 ## 2. Train the meta-classifiers and obtain hypothesis I results
 
@@ -46,6 +46,8 @@ CNN-Zoo:
 ```python
 python cnn_find_best_params_bin.py
 ```
+
+Note that `cnn.json` is already provided in this repo.
 
 ## 3. Obtain hypothesis II results
 
